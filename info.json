@@ -2,5 +2,7 @@
   "oblivion-version": "1.0.0",
   "keyless": true,
   "roblox-version": "version-1588a9c58c674e38",
-  "description": "yeah"
+  "description": "yeah",
+  "modifications": "First Version",
+  "features": "OblivionX features a multi-tab editor with 99% UNC/sUNC compatibility, script management (Open/Clear), and a streamlined execution and attachment system for high-level script performance.",
 }
